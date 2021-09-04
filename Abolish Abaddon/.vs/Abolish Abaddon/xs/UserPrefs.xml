@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{CD2EE064-0BDC-9ED9-548A-60A82929029E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EndGameMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="145" Column="27" />
+      <File FileName="Assets/Scripts/EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyMovement.cs" Line="34" Column="48" />
+      <File FileName="Assets/Scripts/Move.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CharacterController2D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerSoundManger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Wand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FallingScript.cs" Line="39" Column="10" />
+      <File FileName="Assets/MainMenu.cs" Line="4" Column="35" />
+      <File FileName="Assets/EndDeathMenu.cs" Line="11" Column="6" />
+      <File FileName="Assets/Dialogue.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/DialogueManager.cs" Line="53" Column="11" />
+      <File FileName="Assets/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameEvents.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/EndGameMenu.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Abolish Abaddon" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EndGameMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1d1927e0-8a34-4863-ae59-01b37b9de116" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
